@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, useState } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
+import { useState } from 'react';
 import Appbar from './src/screen/Appbar';
 
 export default function App() {
