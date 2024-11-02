@@ -1,6 +1,7 @@
 {
   "name": "lista_tareas",
   "version": "1.0.0",
+  "author": {"name": "Francisco Manuel de Céspedes Díaz", "email": "fmandia1201@gmail.com"},
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
